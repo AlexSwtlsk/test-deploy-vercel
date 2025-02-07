@@ -6,7 +6,7 @@ defineComponent({
 
 <template>
   <div>
-    <p class="text-green-500 font-bold">It works</p>
+    <p class="text-green-500 font-bold">It works tototo</p>
 
     <AppIcon
       name="Bell"
